@@ -1,5 +1,4 @@
- 
-  #bottom{
+ #bottom{
     width:100%;
     float:none;
     display:block;
@@ -13,6 +12,7 @@
     font-size: 14px;
     color:blue;
     margin-top:25px;
+    margin-inline-start:left;
   }
   #Row1{
     margin-bottom:25px;
@@ -20,110 +20,3 @@
     margin-right:50px;;
     Margin-top:25px;
   }
-
-@media screen and (min-width: 576px) { 
-  #AT {
-    font-size: 36px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-  }
-
-}
-
-@media screen and (min-width: 768px) {
-  #AT {
-    font-size: 26px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-  }
- }
-
-@media screen and (min-width: 992px) {
-  #AT {
-    font-size: 26px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-  }
- }
-
-@media screen and (min-width: 1200px) {
-  #AT {
-    font-size: 26px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-  }
- }
-  
-
-@media screen and (min-width: 576px) { 
-  #H2T{
-    font-size:16px;
-    margin-left:25px;
-    Margin-bottom:25px;
-  }
-
-}
-
-
-@media screen and (min-width: 768px) {
-  #H2T{
-    font-size:16px;
-    margin-left:25px;
-    Margin-bottom:25px;
-  }
- }
-
-@media screen and (min-width: 992px) {
-  #H2T{
-    font-size:16px;
-    margin-left:25px;
-    Margin-bottom:25px;
-  }
- }
-
-@media screen and (min-width: 1200px) {
-  #H2T{
-    font-size:16px;
-    margin-left:25px;
-    Margin-bottom:25px;
-  }
- }
-
-@media screen and (min-width: 576px) { 
-  p {
-    font-size:16px;
-    margin-right:25px;
-    margin-bottom:25px;
-
-  }
-
-}
-
-
-@media screen and (min-width: 768px) { }
-
-@media screen and (min-width: 992px) { }
-
-@media screen and (min-width: 1200px) { }
-
-@media screen and (min-width: 576px) { 
-
-}
-
-
-@media screen and (min-width: 768px) { }
-
-@media screen and (min-width: 992px) { }
-
-@media screen and (min-width: 1200px) { }
-
-@media screen and (min-width: 576px) { 
-
-}
-
-
-@media screen and (min-width: 768px) { }
-
-@media screen and (min-width: 992px) { }
-
-@media screen and (min-width: 1200px) { }
